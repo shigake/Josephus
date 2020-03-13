@@ -1,0 +1,11 @@
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.exe
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.deps.json
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.runtimeconfig.json
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.dll
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\bin\Debug\netcoreapp3.1\JosephusProblem.pdb
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp3.1\JosephusProblem.csprojAssemblyReference.cache
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp3.1\JosephusProblem.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp3.1\JosephusProblem.AssemblyInfo.cs
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp3.1\JosephusProblem.dll
+C:\Users\shiga\source\repos\JosephusProblem\JosephusProblem\obj\Debug\netcoreapp3.1\JosephusProblem.pdb
